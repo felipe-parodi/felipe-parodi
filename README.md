@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **computer vision, wireless electrophysiology, neuroscience**
 
-- 📫 How to reach me **parodifelipe07 at gmail dot com**
+- 📫 How to reach me **parodifelipe07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
