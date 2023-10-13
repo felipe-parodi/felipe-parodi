@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A neuroscientist from Argentina</h3>
+<h3 align="center">A computer scientist and neuroethologist from Argentina</h3>
 
 - 🔭 I’m currently working on **studying the neural correlates of natural primate social interactions**
 
