@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **computer vision, wireless electrophysiology, neuroscience**
 
+I maintain [awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology). If you're interested in research at the intersection of machine learning and primatology, consider contributing.
+
 - 📫 How to reach me **parodifelipe07 at gmail dot com**
 
 <h3 align="left">Connect with me:</h3>
