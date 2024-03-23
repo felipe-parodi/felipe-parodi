@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A computer scientist and neuroethologist from Argentina</h3>
 
-- 🔭 I study the neural correlates of natural primate social interactions**
+- 🔭 I study the **neural basis of natural primate behavior**
 
-- 🌱 I’m currently learning **different applications of representation learning**
+- 🌱 I’m currently learning **different applications of self-supervised learning**
 
 - 👯 I’m looking to collaborate on **computational approaches to analyzing wirelessly recorded neural data**
 
