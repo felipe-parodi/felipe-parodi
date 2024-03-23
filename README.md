@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A computer scientist and neuroethologist from Argentina</h3>
 
-- 🔭 I’m currently working on **studying the neural correlates of natural primate social interactions**
+- 🔭 I study the neural correlates of natural primate social interactions**
 
 - 🌱 I’m currently learning **different applications of representation learning**
 
-- 👯 I’m looking to collaborate on **computational approaches for neural and behavioral data analysis**
+- 👯 I’m looking to collaborate on **computational approaches to analyzing wirelessly recorded neural data**
 
-- 💬 Ask me about **computer vision, wireless electrophysiology, neuroscience**
+- 💬 Ask me about **deep learning, wireless brain-computer interfaces, neuroscience**
+
+- 🦧 I maintain **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** – consider contributing!
 
 - 📫 How to reach me **parodifelipe07 at gmail dot com**
 
-I maintain [awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology). If you're interested in research at the intersection of machine learning and primatology, consider contributing.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
