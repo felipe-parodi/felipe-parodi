@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **different applications of self-supervised learning**
 
-- 👯 I’m looking to collaborate on **computational approaches to analyzing wirelessly recorded neural data**
+- 👯 I’m looking to collaborate on **computational approaches to analyzing wirelessly recorded neurobehavioral data**
 
-- 💬 Ask me about **deep learning, wireless brain-computer interfaces, neuroscience**
+- 💬 Ask me about **deep learning, brain-computer interfaces, neuroscience, and primatology**
 
-- 🦧 I maintain **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** – consider contributing!
+- 🦧 I occasionally update **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** – consider contributing!
 
 - 📫 How to reach me **parodifelipe07 at gmail dot com**
-
 
 
 <h3 align="left">Connect with me:</h3>
