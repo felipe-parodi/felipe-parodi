@@ -11,8 +11,6 @@
 
 - 🦧 I occasionally update **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** – consider contributing!
 
-- 📫 How to reach me **parodifelipe07 at gmail dot com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
