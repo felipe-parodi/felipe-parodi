@@ -11,6 +11,7 @@
 
 - 🦧 I occasionally update **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** – consider contributing!
 
+- [Google Scholar](https://scholar.google.com/citations?user=kqW-zA0A5dAC&hl=en&oi=ao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
