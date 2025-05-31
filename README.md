@@ -11,8 +11,6 @@
 
 - 🦧 I occasionally update **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** – consider contributing!
 
-- [Google Scholar](https://scholar.google.com/citations?user=kqW-zA0A5dAC&hl=en&oi=ao)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipeparodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeparodi" height="30" width="40" /></a>
