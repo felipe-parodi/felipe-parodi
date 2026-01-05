@@ -1,6 +1,7 @@
 # Felipe Parodi
 
   **Neuroscientist · AI Researcher · Ethologist**
+  
   PhD Candidate @ University of Pennsylvania
 
   I study how primate brains encode social intelligence and how these principles can inform artificial ones. My work combines neuroscience, machine learning, and animal behavior to model natural social cognition from neural, video, and audio data.
