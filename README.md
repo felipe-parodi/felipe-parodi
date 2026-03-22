@@ -1,6 +1,6 @@
 # Felipe Parodi
 
-  **Neuroscientist · AI Researcher · Ethologist**
+  **Neuroscientist · Penn AI Fellow**
   
   PhD Candidate @ University of Pennsylvania
 
@@ -8,7 +8,7 @@
 
   ### Selected Work
 
-  - **[Nature 2024](https://pubmed.ncbi.nlm.nih.gov/38480888/)** — Neural signatures of natural behavior in macaques
+  - **[Primate neuro-ethology](https://pubmed.ncbi.nlm.nih.gov/38480888/)** — Neural signatures of natural behavior in macaques, Nature
   - **[PrimateFace](https://www.biorxiv.org/content/10.1101/2025.08.12.669927v2)** — Cross-species primate facial analysis benchmark
   - **[awesome-computational-primatology](https://github.com/KordingLab/awesome-computational-primatology)** — Curated resource at the intersection of ML and primatology
 
